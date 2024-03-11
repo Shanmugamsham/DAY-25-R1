@@ -1,0 +1,121 @@
+
+.card_h{
+  background-color: aquamarine;
+  width:100%;
+  font-family:'Times New Roman', Times, serif;
+  font-size:20px;
+  color:black;
+  text-align:left;
+  border-radius:5px;
+  border:2px solid black;
+  padding:12px;
+  margin-top:30px;
+
+
+}
+.btnsize{
+  text-align:right;
+  margin-top:10px;
+  padding:15px;
+
+}
+.btnEdit{
+  background-color:green;
+  color:white;
+  font-family:'Times New Roman', Times, serif;
+  font-size:15px;
+  margin:10px;
+
+}
+.btnDelete{
+  background-color:rgb(170, 84, 8);
+  color:white;
+  font-family:'Times New Roman', Times, serif;
+  font-size:15px;
+  
+
+}
+.mainheading{
+  text-align:center;
+  font-family:'Times New Roman', Times, serif;
+  font-size:35px;
+  color:green;
+  margin-top:50px;
+  margin-bottom:50px;
+}
+
+input{
+  border:2px solid green;
+  width:100%;
+  height:100%;
+  border-radius:10px;
+  padding:10px;
+  font-family:'Times New Roman', Times, serif;
+  color: black;
+
+}
+.addbutton{
+  background-color:green;
+  color:white;
+  font-family: 'Times New Roman', Times, serif;
+  font-size:15px;
+}
+.mytodo{
+  font-family:'Times New Roman', Times, serif;
+  font-size:25px;
+  color:black;
+  font-weight:bold;
+  margin-top:50px;
+  margin-bottom:50px;
+}
+.status{
+  font-family:'Times New Roman', Times, serif;
+  font-size:25px; 
+  color:black;
+  margin-top:50px;
+  margin-bottom:50px;
+  text-align:right;
+  font-weight:300px;
+}
+label{
+  font-family:'Times New Roman', Times, serif;
+  font-size:25px;
+  
+  
+}
+.section{
+  font-family:'Times New Roman', Times, serif;
+  font-size:25px; 
+  color:black;
+  margin-top:50px;
+  margin-bottom:50px;
+  text-align:right;
+  font-weight:300px;
+}
+.section select{
+  margin-left:25px;
+  border:1px solid rgb(0, 0, 0);
+  font-family:'Times New Roman', Times, serif;
+  border-radius:5px;
+  text-align:ce;
+}
+
+.sele{
+  background-color:transparent;
+  border:1px solid black;
+  border-radius:5px;
+}
+.green{
+  background-color:green;
+
+}
+.red{
+  background-color:red;
+  
+}
+.all{
+ 
+    background-color:rgb(250, 115, 115);
+    
+}
+
